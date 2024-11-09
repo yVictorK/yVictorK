@@ -2,14 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yVictorK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yVictorK&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=yVictorK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yVictorK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/5a/33/d0/5a33d0c6c10ea1744a4bafe686558332.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif"  />
 
 ###
 
@@ -56,5 +57,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/yVictorK/yVictorK/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/yVictorK">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yVictorK&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
