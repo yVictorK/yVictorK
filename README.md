@@ -1,5 +1,16 @@
 <h1>Hi there, I'm Victor Kossmann</h1>
 
+<p align="left"> 
+
+<a href="#" title="Gihub">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/yVictorK/yVictorK" alt="Github"/></a>
+<a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorkossmann" alt="LinkedIn"/></a>
+<a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.victork@gmail.com" alt="Gmail"/></a>
+
+</p>
+
 <p><em>Software Engineer Student at <a href="https://www.ufam.edu.br">Federal University of Amazonas (UFAM)</a>
 <p><em>Computer Technician - <a href="https://www.fundacaomatiasmachline.org.br">Fundação Matias Machline</a>
 
@@ -59,18 +70,6 @@ const aboutMe = {
 </p>
 
 
-## Contact Me
-
-<p align="left"> 
-
-<a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorkossmann22@gmail.com" alt="Gmail"/></a>
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorkossmann" alt="LinkedIn"/></a>
-<a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/victorkossmann_" alt="Instagram"/></a>
-
-</p>
 
 
 <br>
