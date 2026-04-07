@@ -73,4 +73,4 @@ const aboutMe = {
 
 <img src="https://raw.githubusercontent.com/yVictorK/yVictorK/output/snake.svg" alt="Snake animation" align="center" width="100%"/>
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9400d3,100:FF7F50&reversal=true&fontColor=f1f1f1&fontSize=48&strokeWidth=0&stroke=f1f1f1&textBg=false&fontAlignY=28&section=footer" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9400d3,100:FF7F50&reversal=false&fontColor=f1f1f1&fontSize=48&strokeWidth=0&stroke=f1f1f1&textBg=false&fontAlignY=28&section=footer" width="100%"/>
