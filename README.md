@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Victor Kossmann</h1>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9400d3,100:FF7F50&text=Hi%20There,%20I'm%20Victor%20Kossmann&reversal=true&fontColor=f1f1f1&fontSize=32&textBg=false&fontAlignY=28" width="100%"/>
 
 <p align="left"> 
 
@@ -71,4 +71,6 @@ const aboutMe = {
 
 <br>
 
-<img src="https://raw.githubusercontent.com/yVictorK/yVictorK/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yVictorK/yVictorK/output/snake.svg" alt="Snake animation" align="center" width="100%"/>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9400d3,100:FF7F50&reversal=true&fontColor=f1f1f1&fontSize=48&strokeWidth=0&stroke=f1f1f1&textBg=false&fontAlignY=28&section=footer" width="100%"/>
