@@ -2,12 +2,9 @@
 
 <p align="left"> 
 
-<a href="#" title="Gihub">
-  <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/yVictorK/yVictorK" alt="Github"/></a>
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorkossmann" alt="LinkedIn"/></a>
-<a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.victork@gmail.com" alt="Gmail"/></a>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yVictorK/yVictorK)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorkossmann)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](dev.victork@gmail.com)
 
 </p>
 
